@@ -16,4 +16,4 @@
 
 ・[短縮URLをブロックする](https://github.com/akikaki-bot/priceless-docs/blob/main/docs/tnsk.md)
 
-・[招待URLをチャンネルでブロックする](https://example.com)
+・[招待URLをチャンネルでブロックする](https://github.com/akikaki-bot/priceless-docs/blob/main/docs/dinv.md)
