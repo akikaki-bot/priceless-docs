@@ -12,7 +12,7 @@
 
 ・[ユーザーをミュートする](https://github.com/akikaki-bot/priceless-docs/blob/main/docs/mute.md)
 
-・[@everyoneをブロックする](https://exmaple.com)
+・[@everyoneをブロックする](https://github.com/akikaki-bot/priceless-docs/blob/main/docs/eveblock.md)
 
 ・[短縮URLをブロックする](https://exmaple.com)
 
