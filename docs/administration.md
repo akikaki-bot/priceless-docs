@@ -26,4 +26,4 @@
 
 ## ✅関連項目
 
-[最初のページ](https://github.com/akikaki-bot/priceless-docs/blob/main)
+[最初のページ](https://github.com/akikaki-bot/priceless-docs/)
