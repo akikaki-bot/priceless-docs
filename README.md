@@ -17,3 +17,6 @@
 ・[短縮URLをブロックする](https://github.com/akikaki-bot/priceless-docs/blob/main/docs/tnsk.md)
 
 ・[招待URLをチャンネルでブロックする](https://github.com/akikaki-bot/priceless-docs/blob/main/docs/dinv.md)
+
+## 招待
+[ここをタップ](https://discord.com/api/oauth2/authorize?client_id=902167328567988294&permissions=8&scope=bot%20applications.commands )
