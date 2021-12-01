@@ -14,6 +14,6 @@
 
 ・[@everyoneをブロックする](https://github.com/akikaki-bot/priceless-docs/blob/main/docs/eveblock.md)
 
-・[短縮URLをブロックする](https://exmaple.com)
+・[短縮URLをブロックする](https://github.com/akikaki-bot/priceless-docs/blob/main/docs/tnsk.md)
 
 ・[招待URLをチャンネルでブロックする](https://example.com)
