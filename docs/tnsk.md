@@ -22,3 +22,12 @@
 
 |bit.ly|goo.gl|ow.ly|is.gd|Bit.do|
 |:--|--:|:--:|:--|--:|
+
+## ⚠️注意点
+・この設定はサーバー全体に適応されます。
+
+・管理者権限が必須です。
+
+## ✅関連項目
+
+[管理者登録をする](https://github.com/akikaki-bot/priceless-docs/blob/main/docs/administration.md)
