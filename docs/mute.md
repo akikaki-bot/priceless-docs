@@ -30,5 +30,5 @@
 
 ## ✅ 関連項目
 
-[管理者として登録する](https://exmaple.com)
+[管理者として登録する](https://github.com/akikaki-bot/priceless-docs/blob/main/docs/administration.md)
 
