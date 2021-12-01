@@ -6,7 +6,7 @@
 ←こんな感じに設定されていたらOKです。
 ## いろいろな設定をする
 
-・[ユーザーをミュートする](https://exmaple.com)
+・[ユーザーをミュートする](https://github.com/akikaki-bot/priceless-docs/blob/main/docs/mute.md)
 
 ・[@everyoneをブロックする](https://exmaple.com)
 
