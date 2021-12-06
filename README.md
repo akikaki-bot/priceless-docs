@@ -12,7 +12,7 @@
 
 ・[ユーザーをミュートする](https://github.com/akikaki-bot/priceless-docs/blob/main/docs/mute.md)
 
-・[@everyoneをブロックする](https://github.com/akikaki-bot/priceless-docs/blob/main/docs/eveblock.md)
+・~~[@everyoneをブロックする](sdhttps://github.com/akikaki-bot/priceless-docs/blob/main/docs/eveblock.mdad)~~
 
 ・[短縮URLをブロックする](https://github.com/akikaki-bot/priceless-docs/blob/main/docs/tnsk.md)
 
