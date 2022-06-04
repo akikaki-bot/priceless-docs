@@ -11,7 +11,7 @@
 #### [🏠ここ（は？）](https://github.com/akikaki-bot/priceless-docs)
 #### [🌪あらしのたいさく](https://github.com/akikaki-bot/priceless-docs/tree/main/arashi)
 #### [🛠️サーバー設定](https://github.com/akikaki-bot/priceless-docs/tree/main/server)
-#### [😲トラブルシューティング](https://github.com/priceless-docs/priceless-docs/tree/main/truble)
+#### [😲トラブルシューティング](https://github.com/akikaki-bot/priceless-docs/tree/main/truble)
 
 ## やうこそ！
 どうも！ヌベヂョン！！！！
