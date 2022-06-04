@@ -9,9 +9,9 @@
 ## カテゴリー
 
 #### [🏠ここ（は？）](https://github.com/akikaki-bot/priceless-docs)
-#### [🌪あらしのたいさく](https://github.com/akikaki-bot/pricless-docs/arashi)
-#### [🛠️サーバー設定](https://github.com/akikaki-bot/pricless-docs/server)
-#### [😲トラブルシューティング](https://github.com/akikaki-bot/priceless-docs/truble)
+#### [🌪あらしのたいさく](https://github.com/akikaki-bot/priceless-docs/arashi)
+#### [🛠️サーバー設定](https://github.com/akikaki-bot/priceless-docs/server)
+#### [😲トラブルシューティング](https://github.com/priceless-bot/priceless-docs/truble)
 
 ## やうこそ！
 どうも！ヌベヂョン！！！！
