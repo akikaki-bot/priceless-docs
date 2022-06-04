@@ -1,22 +1,26 @@
-# ✅プライスレスの取扱説明書 
-## 最初に
-プライスレスのロールの位置を**確認**してください。
+# ✅ぷらいすれすWiki (in Github) 
 
-![Picture](https://cdn.discordapp.com/attachments/883984475732733962/915527510622634004/47.png)
-←こんな感じに設定されていたらOKです。
+## 最初にこれを！
+プライスレスのロールの位置を**確認**！
 
-## 管理者登録をする
-[こちらをお読みください。](https://github.com/akikaki-bot/priceless-docs/blob/main/docs/administration.md)
+![image](https://user-images.githubusercontent.com/83486999/171986939-07e40037-5796-48de-b07b-c7834b9d12a2.png)
+←こんな感じにしてね
 
-## いろいろな設定をする
+## カテゴリー
 
-・[ユーザーをミュートする](https://github.com/akikaki-bot/priceless-docs/blob/main/docs/mute.md)
+#### [🏠ここ（は？）](https://github.com/akikaki-bot/priceless-docs)
+#### [🌪あらしのたいさく](https://github.com/akikaki-bot/pricless-docs/arashi)
+#### [🛠️サーバー設定](https://github.com/akikaki-bot/pricless-docs/server)
+#### [😲トラブルシューティング](https://github.com/akikaki-bot/priceless-docs/truble)
 
-・~~[@everyoneをブロックする](sdhttps://github.com/akikaki-bot/priceless-docs/blob/main/docs/eveblock.mdad)~~
+## やうこそ！
+どうも！ヌベヂョン！！！！
 
-・[短縮URLをブロックする](https://github.com/akikaki-bot/priceless-docs/blob/main/docs/tnsk.md)
+このウィキへようこそ！混沌としたこの世界はヌベジョンーイーヒヒヒヒヒヒｗｗｗｗｗ
 
-・[招待URLをチャンネルでブロックする](https://github.com/akikaki-bot/priceless-docs/blob/main/docs/dinv.md)
+ということで見てね～！！！ヌベヂョンヌゾジョンベルミッティスモゲロンボョｗｗｗｗ！！！ヒヒヒヒヒｗｗｗｗ！！！
+
+
 
 ## 招待
 [ここをタップ](https://discord.com/api/oauth2/authorize?client_id=902167328567988294&permissions=8&scope=bot%20applications.commands )
