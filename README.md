@@ -9,7 +9,7 @@
 ## カテゴリー
 
 #### [🏠ここ（は？）](https://github.com/akikaki-bot/priceless-docs)
-#### [🌪あらしのたいさく](https://github.com/akikaki-bot/priceless-docs/tree/main/arashi)
+#### [🌪あらしのたいさく](https://github.com/akikaki-bot/priceless-docs/blob/main/arashi/README.md)
 #### [🛠️サーバー設定](https://github.com/akikaki-bot/priceless-docs/tree/main/server)
 #### [😲トラブルシューティング](https://github.com/akikaki-bot/priceless-docs/tree/main/truble)
 
